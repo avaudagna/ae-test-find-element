@@ -1,0 +1,14 @@
+{
+  "name": "ae-backend-xml-nodejs-snippets",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/agileengine/ae-backend-xml-nodejs-snippets.git"
+  },
+  "homepage": "https://bitbucket.org/agileengine/ae-backend-xml-nodejs-snippets#readme",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "jsdom": "^11.6.2",
+    "lodash": "^4.17.11"
+  }
+}
