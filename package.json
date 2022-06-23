@@ -8,7 +8,7 @@
   "homepage": "https://bitbucket.org/agileengine/ae-backend-xml-nodejs-snippets#readme",
   "dependencies": {
     "bunyan": "^1.8.12",
-    "jsdom": "^11.6.2",
+    "jsdom": "^16.5.0",
     "lodash": "^4.17.11"
   }
 }
